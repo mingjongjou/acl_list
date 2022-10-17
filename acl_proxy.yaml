@@ -1,12 +1,12 @@
 payload:
-#  Proxy:
-#    type: http
-#    behavior: classical
-#    path: "/etc/openclash/rule_provider/GoogleFCM.yaml"
-#    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml
-#    interval: 86400
-- DOMAIN-SUFFIX,sis001.com
-- DOMAIN-SUFFIX,sexinsex.net
-- DOMAIN-SUFFIX,manhuagui.com
-- DOMAIN-SUFFIX,uukanshu.com
-- DOMAIN-SUFFIX,nextapple.com
+  #  Proxy:
+  #    type: http
+  #    behavior: classical
+  #    path: "/etc/openclash/rule_provider/GoogleFCM.yaml"
+  #    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml
+  #    interval: 86400
+  - DOMAIN-SUFFIX,sis001.com
+  - DOMAIN-SUFFIX,sexinsex.net
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,uukanshu.com
+  - DOMAIN-SUFFIX,nextapple.com
