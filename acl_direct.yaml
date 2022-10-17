@@ -1,9 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,n1.me
-  - DOMAIN-SUFFIX,mingjongjou.cf
-  - DOMAIN-SUFFIX,sysdev.cf
-  - DOMAIN-SUFFIX,dyndns.com
-  - DOMAIN-SUFFIX,synology.cn
-  - DOMAIN-SUFFIX,synology.com
-  - DOMAIN-SUFFIX,checkip.dyndns.com
-
+  # 内容：GoogleFCM 谷歌推送服务
+  # 数量：35条
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com
+  - DOMAIN,mtalk.google.com
