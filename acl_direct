@@ -1,0 +1,7 @@
+payload:
+- DOMAIN-SUFFIX,n1.me,DIRECT
+- DOMAIN-SUFFIX,mingjongjou.cf,DIRECT
+- DOMAIN-SUFFIX,sysdev.cf,DIRECT
+- DOMAIN-SUFFIX,dyndns.com,DIRECT
+- DOMAIN-SUFFIX,synology.cn,DIRECT
+- DOMAIN-SUFFIX,synology.com,DIRECT
