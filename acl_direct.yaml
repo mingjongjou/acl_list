@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,checkip.dyndns.com
   - DOMAIN-SUFFIX,szcsot.com
+  - DST-PORT,123
