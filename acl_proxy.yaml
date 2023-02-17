@@ -2,8 +2,8 @@ payload:
   #  Proxy:
   #    type: http
   #    behavior: classical
-  #    path: "/etc/openclash/rule_provider/GoogleFCM.yaml"
-  #    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml
+  #    path: "/etc/openclash/rule_provider/--.yaml"
+  #    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/--.yaml
   #    interval: 86400
   - DOMAIN-SUFFIX,sis001.com
   - DOMAIN-SUFFIX,sexinsex.net
@@ -29,4 +29,5 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,zhujiceping.com
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,gov.tw
   
