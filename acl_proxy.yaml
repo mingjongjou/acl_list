@@ -39,3 +39,5 @@ payload:
   - DOMAIN-SUFFIX,dmzj.com
   - DOMAIN-SUFFIX,api.cloudflare.com
   - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN-SUFFIX,picacomic.com
+  
