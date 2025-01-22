@@ -7,4 +7,6 @@ payload:
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,checkip.dyndns.com
   - DOMAIN-SUFFIX,szcsot.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,hotmail.com
   
