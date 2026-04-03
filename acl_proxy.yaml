@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,nextapple.com
   - DOMAIN-SUFFIX,nextapple.tw
   - DOMAIN-KEYWORD,nextapple
-  - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,jav777.xyz
   - DOMAIN-SUFFIX,520cc.cc
   - DOMAIN-KEYWORD,wuqimh
@@ -30,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,zhujiceping.com
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,gov.tw
+  - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,idmzj.com
   - DOMAIN-KEYWORD,wuqimanga
   - DOMAIN-SUFFIX,htmanga3.top
@@ -41,13 +41,12 @@ payload:
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,notion.so  
-  - DOMAIN-SUFFIX,services.googleapis.cn
-  - DOMAIN-SUFFIX,play.googleapis.com
-  - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN-SUFFIX,android.clients.google.com
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,faleno.jp
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,dahlia-av.jp
-  
+  #  - DOMAIN-SUFFIX,services.googleapis.cn
+  #  - DOMAIN-SUFFIX,play.googleapis.com
+  #  - DOMAIN,connectivitycheck.gstatic.com
+  #  - DOMAIN-SUFFIX,android.clients.google.com
+  #  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com  
