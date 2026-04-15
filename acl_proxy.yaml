@@ -46,6 +46,8 @@ payload:
   - DOMAIN-SUFFIX,faleno.jp
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,dahlia-av.jp
+  - DOMAIN-SUFFIX,naixi.net
+  - DOMAIN-SUFFIX,chiba-f.net  
   #  - DOMAIN-SUFFIX,services.googleapis.cn
   #  - DOMAIN-SUFFIX,play.googleapis.com
   #  - DOMAIN,connectivitycheck.gstatic.com
